@@ -92,6 +92,7 @@ yarn dev
 > If you want to change the default ports, you can do so by modifying `PORT` and `REACT_APP_BACKEND_PORT` variables in `.env` file.
 > However, make sure the modified port numbers in `.env` are not commited into Git since the CI environments still expect the application to run on the default ports.
 
+
 ### Start Cypress
 
 ```shell
